@@ -10,11 +10,11 @@ const Getintouch = () => {
             <h2 className={styles.title}> Let's Connect</h2>
             <div className={styles.content}>
                 <div className={styles.text}>
-                    <form name="Contact_Me" netlify>
+                    <form name="Conatact">
                         <input type='text' name='name' placeholder='Enter Your Name' />
                         <input type='email' name='email' placeholder='Enter Your Emial' />
                         <textarea name='message' rows="10" placeholder='Enter your message'></textarea>
-                        <button type='submit'>Let's Talk</button>
+                        <button>Let's Talk</button>
                     </form>
                 </div>
                 <div className={styles.links}>

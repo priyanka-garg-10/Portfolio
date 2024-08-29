@@ -1,0 +1,38 @@
+[
+    {
+        "title": "HTML 5",
+        "imageSrc": "skills/html.com.png"
+    },
+    {
+        "title": "CSS 3",
+        "imageSrc": "skills/css.com.png"
+    },
+    {
+        "title": "JS",
+        "imageSrc": "skills/js.com.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.com.png"
+    },
+    {
+        "title": "Redux toolkit",
+        "imageSrc": "skills/redux.com.png"
+    },
+    {
+        "title": "Tailwind",
+        "imageSrc": "skills/tailwind.com.png"
+    },
+    {
+        "title": "Node JS",
+        "imageSrc": "skills/nodejs.com.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb.com.png"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "skills/git.png"
+    }
+]

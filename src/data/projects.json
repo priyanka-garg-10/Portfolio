@@ -1,0 +1,64 @@
+[
+    {
+        "title": "Chat Website",
+        "imageSrc": "projects/chat.png",
+        "description": "Developed a real-time chat application using the MERN stack (MongoDB, Express.js, React, Node.js) that supports private messaging, group chats, and online/offline status tracking. Integrated WebSocket (Socket.IO) for instant message delivery, ensuring a seamless communication experience between users.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "Websockets"
+        ],
+        "demo": "https://github.com/priyanka-garg-10/Chat-App--Server",
+        "source": "https://github.com/priyanka-garg-10/Chat-App-Frontend"
+    },
+    {
+        "title": "Job-Seeking Website",
+        "imageSrc": "projects/job.png",
+        "description": " Developed a job-seeking platform that connects job seekers with employers, offering job listings, resume submissions.The platform provides a platform to employers to post thier job requirements and accepting and declining applications using mern stack.",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "MongoDB"
+        ],
+        "demo": "https://github.com/priyanka-garg-10/Job-seeking-website---backend",
+        "source": "https://github.com/priyanka-garg-10/Job-Seeking-Website---Frontend"
+    },
+    {
+        "title": "Gemini clone",
+        "imageSrc": "projects/gemini.png",
+        "description": "Developed an AI-powered conversational agent inspired by Gemini, designed to provide human-like interactions, answer questions, and assist users in various tasks. Built a responsive and user-friendly interface that allows easy interaction with the chatbot, accessible on both web and mobile devices.",
+        "skills": [
+            "React",
+            "JS",
+            "Tailwind CSS"
+        ],
+        "demo": "https://chatgemini-clones.netlify.app/",
+        "source": "https://github.com/priyanka-garg-10/Gemini-Cone"
+    },
+    {
+        "title": "Weather Api",
+        "imageSrc": "projects/weather.png",
+        "description": "Developed a RESTful Weather API that provides real-time weather data, forecasts, and climate statistics for any location worldwide. The API integrates third-party weather data sources and offers endpoints for temperature, humidity, wind speed, and other meteorological information.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "demo": "https://weathersapis.netlify.app/",
+        "source": "https://github.com/priyanka-garg-10/Weather-App"
+    },
+    {
+        "title": "Password generator",
+        "imageSrc": "projects/password.png",
+        "description": "Developed a secure password generator tool designed to create strong, random passwords for enhanced security. The tool allows users to specify criteria such as length, inclusion of special characters, and mix of uppercase and lowercase letters to generate passwords that meet modern security standards.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "demo": "https://createyourpasswords.netlify.app/",
+        "source": "https://github.com/priyanka-garg-10/Password-Generator"
+    }
+]

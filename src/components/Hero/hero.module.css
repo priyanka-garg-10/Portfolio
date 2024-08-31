@@ -17,6 +17,8 @@
     align-items: flex-start;
     color: var(--color-text);
     z-index: 1;
+    width:100%;
+    max-width:900px;
 }
 
 .title {
@@ -49,7 +51,9 @@
 }
 
 .heroImg {
-    width: 50%;
+    width: 500px;
+    height:500px;
+    border-radius:100%;
     z-index: 1;
 
     animation-name: floating;

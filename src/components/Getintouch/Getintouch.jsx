@@ -11,8 +11,8 @@ const Getintouch = () => {
             <div className={styles.content}>
                 <div className={styles.text}>
                     <form action='https://getform.io/f/blljvljb' method='POST'>
-                        <input type='text' name='name' placeholder='Enter Your Name' />
-                        <input type='email' name='email' placeholder='Enter Your Emial' />
+                        <input type='text' name='name' placeholder='Your Name' />
+                        <input type='email' name='email' placeholder='Your Emial' />
                         <textarea name='message' rows="10" placeholder='Enter your message'></textarea>
                         <button>Let's Talk</button>
                     </form>

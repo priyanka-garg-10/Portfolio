@@ -10,7 +10,7 @@ const Hero = () => {
                 <p className={styles.description}>
                     I'm a full-stack developer and having a strong knowledge of data structures. Reach out if you'd like to learn more!
                 </p>
-                <a href="https://drive.google.com/file/d/10WqOEs9a8CdVQiXkQtspKR2rQdCE5RBQ/view?usp=drive_link" className={styles.contactBtn}>
+                <a href="https://drive.google.com/file/d/1HU83IWEjZk0TheLz-bR_c6pKetxh2uWw/view?usp=drive_link" className={styles.contactBtn}>
                     Resume
                 </a>
             </div>
